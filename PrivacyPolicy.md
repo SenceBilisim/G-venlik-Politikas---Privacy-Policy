@@ -39,7 +39,7 @@ Bu Hizmetin kullanıcılarını, bu üçüncü tarafların Kişisel Bilgileriniz
 Bize Kişisel Bilgilerinizi sağlama konusundaki güveninize değer veriyoruz, bu nedenle ticari olarak kabul edilebilir koruma yöntemlerini kullanmaya çalışıyoruz. Ancak internet üzerinden hiçbir iletim yönteminin veya elektronik depolama yönteminin %100 güvenli ve güvenilir olmadığını ve mutlak güvenliğini garanti edemeyiz.
 
 ### Çocukların Gizliliği
-Bu Hizmetler 6 yaşın altındaki hiç kimseye hitap etmez. 6 yaşın altındaki çocuklardan bilerek kişisel olarak tanımlanabilir bilgiler toplamıyoruz. 6 yaşın altındaki bir çocuğun bize kişisel bilgiler sağladığını keşfetmemiz durumunda, bunu sunucularımızdan derhal sileriz. Ebeveyn veya vasi iseniz ve çocuğunuzun bize kişisel bilgiler verdiğini biliyorsanız, gerekli işlemleri yapabilmemiz için lütfen bizimle iletişime geçin.
+Bu Hizmetler 13 yaşın altındaki hiç kimseye hitap etmez. 13 yaşın altındaki çocuklardan bilerek kişisel olarak tanımlanabilir bilgiler toplamıyoruz. 13 yaşın altındaki bir çocuğun bize kişisel bilgiler sağladığını keşfetmemiz durumunda, bunu sunucularımızdan derhal sileriz. Ebeveyn veya vasi iseniz ve çocuğunuzun bize kişisel bilgiler verdiğini biliyorsanız, gerekli işlemleri yapabilmemiz için lütfen bizimle iletişime geçin.
 
 ### Bu Gizlilik Politikasındaki Değişiklikler
 Gizlilik Politikamızı zaman zaman güncelleyebiliriz. Bu nedenle, herhangi bir değişiklik için bu sayfayı periyodik olarak gözden geçirmeniz önerilir. Bu sayfada yeni Gizlilik Politikasını yayınlayarak herhangi bir değişiklik hakkında sizi bilgilendireceğiz. Bu değişiklikler, bu sayfada yayınlandıktan hemen sonra yürürlüğe girer.
@@ -86,7 +86,7 @@ We want to inform users of this Service that these third parties have access to 
 We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over  the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.  
 
 ### Children’s Privacy  
-This Services do not address anyone under the age of 6. We do not knowingly collect personal identifiable information from children under 6. In the case we discover that a child under 6 has provided us with personal information, we immediately delete this from our servers. If you  are  a  parent  or  guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.  
+This Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you  are  a  parent  or  guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.  
 
 ### Changes to This Privacy Policy  
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.  
