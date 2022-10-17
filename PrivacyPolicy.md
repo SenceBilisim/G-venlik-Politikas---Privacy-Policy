@@ -1,9 +1,9 @@
 Gizlilik Politikası
 ----------------
 
-### Giriiş
-Gizlilik politikamız, Sence Bilişim/PortAkil'nda hangi bilgileri topladığımızı, Sence Bilişim/PortAkil'nın bu bilgileri nasıl kullandığını ve hangi seçeneklere sahip olduğunuzu anlamanıza yardımcı olacaktır.
-Sence Bilişim/PortAkil PortAkil uygulamasını ücretsiz bir uygulama olarak oluşturdu. Bu HİZMET Sence Bilişim/PortAkil tarafından ücretsiz olarak sağlanmaktadır ve olduğu gibi kullanılması amaçlanmıştır.
+### Giriş
+Gizlilik politikamız, *Sence Bilişim/PortAkil*'nda hangi bilgileri topladığımızı, *Sence Bilişim/PortAkil*'nın bu bilgileri nasıl kullandığını ve hangi seçeneklere sahip olduğunuzu anlamanıza yardımcı olacaktır.
+*Sence Bilişim/PortAkil* *PortAkil* uygulamasını ücretsiz bir uygulama olarak oluşturdu. Bu HİZMET *Sence Bilişim/PortAkil* tarafından ücretsiz olarak sağlanmaktadır ve olduğu gibi kullanılması amaçlanmıştır.
 Hizmetimizi kullanmayı seçerseniz, bu politikayla ilgili bilgilerin toplanmasını ve kullanılmasını kabul etmiş olursunuz. Topladığımız Kişisel Bilgiler, Hizmeti sağlamak ve geliştirmek için kullanılır. Bilgilerinizi bu Gizlilik Politikasında açıklananlar dışında kimseyle kullanmayacağız veya paylaşmayacağız.
 Bu Gizlilik Politikasında kullanılan terimler, bu Gizlilik Politikasında aksi belirtilmedikçe, web sitemizden erişilebilen Hüküm ve Koşullarımızdaki anlamlarla aynı anlamlara sahiptir.
 
@@ -23,7 +23,7 @@ Bazı hizmetler, kullanıcıların cep telefonlarından iletilen konum bilgileri
 Bazı durumlarda cihazınızdan bilgi topluyoruz. Bilgiler, daha iyi hizmet sağlanması ve dolandırıcılık eylemlerinin önlenmesi için kullanılacaktır. Ayrıca, bu tür bilgiler, bireysel kullanıcıyı tanımlayacak bilgileri içermeyecektir.
 
 ### Servis sağlayıcıları
-Aşağıdaki nedenlerden dolayı üçüncü taraf Sence Bilişimleri ve bireyleri istihdam edebiliriz:
+Aşağıdaki nedenlerden dolayı üçüncü taraf şirketleri ve bireyleri istihdam edebiliriz:
 * Hizmetimizi kolaylaştırmak için;
 * Hizmeti bizim adımıza sağlamak için;
 * Hizmetle ilgili hizmetleri gerçekleştirmek için; veya
@@ -43,4 +43,4 @@ Gizlilik Politikamızı zaman zaman güncelleyebiliriz. Bu nedenle, herhangi bir
 ### Bize Ulaşın
 Gizlilik Politikamız hakkında herhangi bir sorunuz veya öneriniz varsa, bizimle iletişime geçmekten çekinmeyin.
 İletişim bilgileri:
-E-posta: *sencesoftware@gmail.com*
+E-posta: *[xxx@email.com]*
